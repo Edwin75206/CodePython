@@ -1,5 +1,8 @@
 import cv2
 import numpy as np
+#PARA QUE FUNCIONE CV2 HAY QUE INSTALAR ESTAS LIBRERIAS
+#pip install opencv-python
+#pip install opencv-contrib-python ESTO PARA WINDOWS PARA MAC ES OTRA COSA
 
 # Cargar la imagen dañada
 damaged = cv2.imread("/Users/macbookair/Downloads/deadpool.png")
