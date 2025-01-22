@@ -41,4 +41,6 @@ Successfully installed opencv-contrib-python-4.11.0.86
 2025-01-22 13:32:56.937 Python[64695:1902788] +[IMKClient subclass]: chose IMKClient_Modern
 2025-01-22 13:32:56.937 Python[64695:1902788] +[IMKInputSession subclass]: chose IMKInputSession_Modern
 Video guardado en: faces_and_eyes.avi
-(venv) macbookair@MacBook-Air-de-Edwin-Donovan CodePython %      
+(venv) macbookair@MacBook-Air-de-Edwin-Donovan CodePython %    
+
+Agregue Cambios
